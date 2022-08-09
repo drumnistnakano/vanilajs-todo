@@ -15,6 +15,10 @@ button {
   padding: 4px 16px;
 }
 
+li {
+  margin-right: 8px;
+}
+
 button:hover {
   background-color: #ff7fff;
   color: #fff;
@@ -57,5 +61,6 @@ button:hover {
 
 .list-row {
   display: flex;
-  align-items: ;
+  align-items: center;
+  padding-bottom: 4px;
 }
